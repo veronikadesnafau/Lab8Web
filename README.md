@@ -128,14 +128,14 @@ Buat file baru dengan nama hapus.php
 
 #### Hasil program pada browser :
 
-![](img/index%20php.jpg)
+![](img/index%20php1.jpg)
 
 #### Penambahan CSS Style pada tambah.php
 
-![](img/tambah%20barang.jpg)
+![](img/tambah%20barang1.jpg)
 
 #### Penambahan CSS Style pada ubah.php
-![](img/ubah%20barang%20barang.jpg)
+![](img/ubah%20barang%20barang1.jpg)
 
 ###### selesai
 
